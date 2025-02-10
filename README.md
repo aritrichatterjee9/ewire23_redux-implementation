@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Deployed in :
+Deployed in : https://ewire23-redux9.vercel.app/ 
 ![image](https://github.com/aritrichatterjee9/ewire23_redux-implementation/assets/73156770/d3fdd378-8706-40fb-823f-666a484057e9)
 
 
